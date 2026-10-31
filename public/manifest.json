@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Shadow Escape: The Impossible World",
+  "short_name": "ShadowEscape",
+  "description": "High-octane 3D third-person adventure and survival runner through mysterious worlds, perilous traps, boss encounters, and addictive unlocks.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#06070d",
+  "theme_color": "#090a15",
+  "orientation": "portrait",
+  "categories": ["games", "action", "adventure"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

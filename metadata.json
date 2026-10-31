@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Escape: The Impossible World",
+  "description": "High-octane 3D third-person adventure and survival runner through mysterious worlds, perilous traps, boss encounters, and addictive unlocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
